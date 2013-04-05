@@ -22,15 +22,10 @@ module.exports = function(grunt) {
       },
     },
 
-    // Before generating any new files, remove any previously-created files.
-    clean: {
-      tests: ['tmp'],
-    },
-
     // Tests
     qunit_zombie: {
       all: [
-        'test/**/*.js',
+        'test/**/*.html',
       ],
     },
   });
