@@ -32,7 +32,8 @@
     "grunt-contrib-jshint": "~0.1.1",
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.6",
-    "zombie": "~1.4.1"
+    "zombie": "~1.4.1",
+    "difflet": "~0.2.3"
   },
   "peerDependencies": {
     "grunt": "~0.4.1"
