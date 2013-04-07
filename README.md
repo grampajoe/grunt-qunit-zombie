@@ -42,7 +42,7 @@ grunt.initConfig({
 ### Usage Examples
 
 #### Wildcards
-In this example, `grunt qunit_zombie:all` (or `grunt qunit_zombie` because `qunit` is a multi task) will test all `.html` files in the test directory _and all subdirectories_. First, the wildcard is expanded to match each individual file. Then, each matched filename is passed to [Zombie][] one at a time.
+In this example, `grunt qunit_zombie:all` (or `grunt qunit_zombie` because `qunit_zombie` is a multi task) will test all `.html` files in the test directory _and all subdirectories_. First, the wildcard is expanded to match each individual file. Then, each matched filename is passed to [Zombie][] one at a time.
 
 ```js
 grunt.initConfig({
