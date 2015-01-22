@@ -2,6 +2,8 @@
 
 > A [QUnit][] plugin for [Grunt][] using [Zombie][].
 
+*This plugin is a work in progress, and isn't usable yet. Sorry!*
+
 [QUnit]: http://qunitjs.com/
 [Grunt]: http://gruntjs.com/
 [Zombie]: http://zombie.labnotes.org/
